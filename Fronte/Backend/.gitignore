@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+*.user
+*.log
+build_errors.txt
+error_log.txt
+.vs/
+.vscode/

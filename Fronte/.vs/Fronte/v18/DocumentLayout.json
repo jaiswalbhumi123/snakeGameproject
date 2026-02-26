@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\snake game\\Fronte (2)\\Fronte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C5EB01-41DF-4298-A734-819C3E3F05EB}|Backend\\Backend..csproj|d:\\snake game\\fronte (2)\\fronte\\backend\\backend..csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B2C5EB01-41DF-4298-A734-819C3E3F05EB}|Backend\\Backend..csproj|solutionrelative:backend\\backend..csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend.",
+              "DocumentMoniker": "D:\\snake game\\Fronte (2)\\Fronte\\Backend\\Backend..csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend..csproj",
+              "ToolTip": "D:\\snake game\\Fronte (2)\\Fronte\\Backend\\Backend..csproj",
+              "RelativeToolTip": "Backend\\Backend..csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T12:04:52.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
